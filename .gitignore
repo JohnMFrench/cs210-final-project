@@ -1,0 +1,5 @@
+# ignore output data
+data/*.dat
+
+# ignore compiled program 
+*.exe
